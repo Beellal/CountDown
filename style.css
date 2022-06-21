@@ -1,0 +1,45 @@
+body{
+            background: rgba(20, 59, 217, 0.868);;
+            text-transform: uppercase;
+        
+}
+
+
+p{
+            font-size: 4rem;
+            color: white;
+            text-align: center;
+}
+form{
+            margin-top: 20rem;
+            display: flex;
+            justify-content: center;
+}
+.time-button{
+    
+            background-color:rgb(35, 106, 229);
+            color: white;
+            text-align: center;
+            display: flex;
+            padding: 10px;
+            flex: 1;
+        
+            border-bottom: 1px double rgb(21, 51, 107);
+            border-right: 1px dashed rgb(21, 51, 107);
+        
+            justify-content: center;
+            text-transform: uppercase;
+        
+   
+}
+.timer{
+            display: flex;
+            flex: 1;
+            text-align: center;
+}
+input{
+            width: 10rem;
+            height: 2rem;
+            border-radius: 10px;
+            background-color: rgba(0, 0, 0, 0.241);
+}
